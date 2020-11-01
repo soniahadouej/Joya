@@ -1,0 +1,32 @@
+awel etape : tsobou git 
+link: https://git-scm.com/download/win
+tabou les 4min taa cette video bech taarfou kifeh tsobou
+https://www.youtube.com/watch?v=rWhnsx4PDQU
+
++ taamel compte github
+
+taamel dossier feragh sur desktop w todkhol aalih
+taamel clique droit w thel git Bash
+tekteb:
+git init 
+git remote add origin https://github.com/soniahadouej/Joya.git
+git pull origin master
+-------------> c'est bon haka tkoun habat l projet 
+
+*************NEXT STEP***************************
+
+tawa BECH tamel branch lik enti, fel bash again tekteb
+git branch esmbranchMteek
+git checkout esmbranchMteek
+-------------> c'est bon
+
+tawa tabda tekhdem aala rouhek fel template
+une fois kamalet lkhedma
+taawed thel el bash win dossier mteek
+
+*******************************
+w tekteb:
+git add *
+git commit -a -m "message li theb aalih"
+git push origin esmBranchMtek
+-------------> c'est bon les modif mteek habtou 
